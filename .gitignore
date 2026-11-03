@@ -1,0 +1,41 @@
+# Environment variables and credentials
+.env
+.env.*
+!.env.example
+
+# SSH and private keys
+*.pem
+*.key
+id_rsa
+id_ed25519
+id_ecdsa
+id_ed25519.pub
+
+# Certificates
+*.p12
+*.pfx
+
+# Password and secret files
+secrets/
+credentials/
+
+# Backups and database files
+*.bak
+*.backup
+*.old
+*.sql
+*.sqlite
+*.sqlite3
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.swp
+*.swo
+*~
+
+# OS generated files
+.DS_Store
+Thumbs.db
