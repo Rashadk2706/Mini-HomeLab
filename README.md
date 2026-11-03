@@ -11,11 +11,11 @@ The project is built around Debian Linux, OpenMediaVault, and Docker, with the g
 | Component | Technology |
 |---|---|
 | Operating System | Debian Linux |
- OpenMediaVault |
+ NAS | OpenMediaVault |
 | Containerization | Docker |
 | Container Deployment | Docker Compose |
 | DNS Filtering | Pi-hole |
-| Network Monitoring |
+
 
 ## Architecture
 
